@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Nashmia 👋
 
-<!--
-**nashmiajarral/nashmiajarral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering Graduate** from the **University of Lahore**
 
-Here are some ideas to get you started:
+💻 Passionate about building web and mobile applications that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently Learning**
+- MERN Stack
+- Web Development
+- Mobile App Development
+
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- JavaScript
+- Node.js
+- Express.js
+- MySQL
+- Git & GitHub
+
+## 🚀 Featured Projects
+
+- 🐾 PetCare+ (Final Year Project)
+- 📚 University Semester Projects
+- 🌐 Full-Stack Web Applications (Coming Soon)
+- 📱 Mobile Applications (Coming Soon)
+
+## 🎯 Goals
+
+- Become a skilled Full-Stack Developer
+- Build impactful web & mobile applications
+- Start freelancing and work on real-world projects
+
+## 📫 Connect with Me
+
+- LinkedIn: www.linkedin.com/in/nashmia-mirza
+- Email: nashmiajarral@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
