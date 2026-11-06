@@ -55,7 +55,7 @@ Full-stack task management web application built with **Python, Flask, MySQL, HT
 
 ### ❤️ AI Heart Disease Prediction
 
-This project explores the use of Machine Learning techniques to predict the likelihood of heart disease using patient medical data.
+This project explores the use of **Machine Learning** techniques to predict the likelihood of heart disease using patient medical data.
 
 The project involves data exploration, preprocessing, training different machine learning algorithms, and evaluating their performance.
 
