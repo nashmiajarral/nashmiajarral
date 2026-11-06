@@ -30,6 +30,7 @@
 * Postman
 * Figma
 * Ubuntu/Linux
+* vs code
 
 ### 🧩 Software Engineering
 
